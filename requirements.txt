@@ -1,0 +1,7 @@
+pandas
+#tensorflow==2.10
+opencv-python
+matplotlib
+scikit-learn
+
+#conda install -c nvidia cuda-nvcc

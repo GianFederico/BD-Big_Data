@@ -1,0 +1,8 @@
+PIL
+glob
+torch
+numpy
+tdqm
+cv2
+torchsummary
+scikit-learn
