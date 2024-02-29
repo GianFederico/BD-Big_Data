@@ -1,4 +1,4 @@
-To run the code, install requirements in the right environment and run the try_[...].py files
+To run the code, install requirements in the right environment and run the try_[...].py files to test the pre-trained models
 
 ![image](https://github.com/GianFederico/BD-Big_Data/assets/48125720/3e5f3149-4784-4db4-8b9e-9c8d5587b5c4)
 ![image](https://github.com/GianFederico/BD-Big_Data/assets/48125720/dd4ac49d-ecad-4abf-8912-1017bf8747b0)
